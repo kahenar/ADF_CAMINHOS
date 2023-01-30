@@ -1,0 +1,9 @@
+{
+	"name": "adf-learning-kah",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "37f5c0cb-896e-47a8-8f93-b5ab4adcfa82",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
